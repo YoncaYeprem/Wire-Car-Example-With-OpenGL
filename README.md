@@ -1,2 +1,2 @@
-# Wire-Car-Example-With-C-
+# Wire-Car-Example-With-OpenGL
 This project created with using OpenGL library.
